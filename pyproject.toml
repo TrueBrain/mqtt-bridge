@@ -1,0 +1,7 @@
+[build-system]
+requires = [
+    "asyncio-mqtt"
+]
+
+[tool.block]
+line-length = 120
